@@ -8,7 +8,7 @@ canvas {
 
 
 :root {
-  --dark-bg: rgba(15, 15, 15, 0.95);
+  --dark-bg: rgba(240, 240, 240, 0.75);
   --spacing: 350px;
 
   font-family: brandon-grotesque, sans-serif;
@@ -34,6 +34,7 @@ h1, h2, h3, blockquote {
   font-family: elevon, sans-serif;
   font-weight: 700;
   font-style: normal;
+  color: black;
 }
 
 canvas {
@@ -42,6 +43,9 @@ canvas {
   left: 0;
 }
 
+p {
+  color:black;
+}
 
 
   header {
